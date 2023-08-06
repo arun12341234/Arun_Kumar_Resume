@@ -10,124 +10,122 @@
 Highly skilled Full Stack Developer with 4 years of experience in Angular, Python, and Django. Proficient in developing and integrating plugins and automation tools. Strong problem-solving and analytical abilities.
 
 **Experience**
-1. Bot Automation & Plugin Developer - ARGOS LABS (Dec 2019 - Present)
+1. Angular & Python Developer - Preva Systems Pvt Ltd, Bengaluru (Dec 2019 - Dec 2020)
+   - Developed complex web applications using Angular and Python, contributing to a 20% increase in user engagement.
+   - Conducted code reviews and provided valuable feedback, resulting in a 40% improvement in code quality.
+   - Assisted in thorough testing and debugging, leading to a 15% reduction in application bugs and improved overall performance.
+
+2. Bot Automation & Plugin Developer - ARGOS LABS Low Code AI/ML Integration Platform, Alpharetta, GA (Dec 2019 - Dec 2020)
    - Developed 20+ plugins, resulting in a 25% increase in platform functionalities.
    - Collaborated on 50+ projects, delivering solutions that improved efficiency by 30% on average.
    - Assisted 100+ users, achieving a 90% user satisfaction rate.
 
-2. Bot Automation & Plugin Developer - ARGOS LABS (Jul 2022 - Present)
-   - Developed 15 new plugins, expanding the capabilities of the Low Code AI/ML Integration Platform and attracting 50+ new users.
-   - Participated in planning discussions to enhance platform functionalities, leading to a 10% increase in user engagement and retention.
-   - Tested and debugged 30 existing plugins, maintaining a 95% bug-free rate for enhanced user experience.
-
-3. Angular & Python Developer - Preva Systems Pvt Ltd (Dec 2019 - Dec 2020)
-   - Developed 3 complex web applications using Angular and Python, contributing to a 20% increase in user engagement.
-   - Conducted code reviews and provided valuable feedback, resulting in a 40% improvement in code quality.
-   - Assisted in thorough testing and debugging, leading to a 15% reduction in application bugs and improved overall performance.
-
-4. Angular & Python Developer (Freelancer) - SasconIT Technologies (Feb 2021 - Present)
+3. Angular & Python Developer (Freelancer) - SasconIT Technologies Pvt Ltd, Bengaluru (Feb 2021 - Present)
    - Developed custom web applications for 10+ clients, meeting project deadlines with a 100% on-time delivery rate.
    - Interacted with clients to understand project requirements and deliver tailor-made solutions.
    - Collaborated with other freelancers and project managers on 5 major projects, resulting in successful project completion and positive client feedback.
    - Conducted code reviews and implemented optimization strategies, leading to a 25% reduction in page load times for client websites.
 
+4. Plugin Developer - ARGOS LABS Low Code AI/ML Integration Platform, Alpharetta, GA (Jul 2022 - Present)
+   - Developed 15 new plugins, expanding the capabilities of the platform and attracting 50+ new users.
+   - Participated in planning discussions to enhance platform functionalities, leading to a 10% increase in user engagement and retention.
+   - Tested and debugged 30 existing plugins, maintaining a 95% bug-free rate for enhanced user experience.
+
 **Education**
 - B. Tech in Computer Science and Engineering (CSE), SUSCET, Tangori (July 2015 - July 2019)
 
 **Skills**
-- Frontend: Angular, HTML, CSS, Bootstrap
+- Frontend: Angular 6+, HTML, CSS, Bootstrap
 - Backend: Python, Django, Flask
-- Languages: Python, JavaScript, PHP, Android, Typescript, C++, Java
+- Programming Languages: Python, JavaScript, PHP, Android, Typescript, C++, Java
+- Version Control System: GitHub
 - Databases: MySQL, MongoDB, PostgreSQL, Redis
-- Version Control: GitHub
 
 **Projects**
 1. Asset Management (Angular 8 & Django Project)
-   - Breathalyzer Alcohol Content Check: An application integrated with an IoT Device displaying BAC status on the message board.
-   - Generate Report: A reporting tool integrated into the application to generate reports based on the data.
+   - Breathalyzer Alcohol Content Check: Integrated with an IoT Device displaying BAC status on the message board.
+   - Generate Report: Integrated reporting tool for generating reports based on the data.
 
 2. LMS (Learning Management System) (Angular 8 & Django Project)
    - Admin Module: Manages the entire system with super permissions.
    - Trainer Module: Manages courses and guides trainees.
-   - Trainee Module: Learns assigned courses and performs various course-related activities.
+   - Trainee Module: Learns assigned courses and performs course-related activities.
 
 3. AVL Project (Automatic Vehicle Location) (Angular 8 & Django Project)
-   - Getting data from a device in the form of location.
+   - Getting data from devices' location.
    - Storing data in the database.
-   - Showing a particular location on the map using Latitude and Longitude.
+   - Showing locations on a map with Latitude and Longitude.
 
-4. Vending Machine (Angular 8 & Django Project) (Freelance Project)
+4. Vending Machine (Angular 8 & Django Project) (Completed as a freelancer)
    - Login through mobile or scan QR code to access the vending machine.
    - Select a product and checkout via Rozerpay.
    - Backend verifies the payment order signature for temporary memory data to dispense.
 
 **Bot Automation & Plugin Development**
-- WhatsApp Plugin (Python Plugin)
-  - Upload Photos and Videos.
-  - Send messages to multiple contacts.
+1. **WhatsApp Plugin (Python Plugin)**
+   - Effortlessly upload photos and videos to your WhatsApp conversations.
+   - Seamlessly send messages to multiple contacts for quick communication.
 
-- Zip/Unzip Plugin (Python Plugin)
-  - Zipping and unzipping multiple files (e.g., .txt, .pdf, .xlsx) in a folder.
+2. **Zip/Unzip Plugin (Python Plugin)**
+   - Easily zip and unzip multiple files (e.g., .txt, .pdf, .xlsx) in a single folder for efficient file management.
 
-- Hospital Bot (Python Automation)
-  - Get data using API.
-  - Search information using a particular emirates id.
-  - Create an excel sheet with patient details using web scraping.
+3. **Hospital Bot (Python Automation)**
+   - Utilize APIs to obtain essential data for streamlined hospital operations.
+   - Conduct efficient searches using specific emirates ID, creating detailed excel sheets via web scraping.
 
-- Box II Plugin (Python Plugin)
-  - Generate tokens from the box.
-  - Show a list of files.
-  - Upload and download files from the box.
+4. **Box II Plugin (Python Plugin)**
+   - Empower your workflow with secure token generation, file listing, and seamless file upload/download from Box.
 
-- Google Drive Plugin (Python Plugin)
-  - Create a new folder, upload, or download files.
-  - Search specific files.
-  - Share files/folders with users, groups, or domains.
+5. **Google Drive Plugin (Python Plugin)**
+   - Effortlessly create, upload, download, search, share, move, and delete files/folders in your Google Drive.
 
-- Word Editor Plugin (Python Plugin)
-  - Read and modify docx file header, footer, table, and paragraph.
+6. **Word Editor Plugin (Python Plugin)**
+   - Seamlessly read and modify docx file headers, footers, tables, and paragraphs for customized documents.
 
-- Git HTML Extract Plugin (Python Plugin)
-  - Extract HTML from Git readme.
-  - Convert HTML to pdf and docx.
+7. **Git HTML Extract Plugin (Python Plugin)**
+   - Extract HTML content from Git readme and convert it to pdf and docx using Chrome options or Word Editor.
 
-- GraphQL API Plugin (Python Plugin)
-  - Request server and get specific data.
+8. **GraphQL API Plugin (Python Plugin)**
+   - Optimize data retrieval by requesting specific information from the server, reducing unnecessary queries.
 
-- Microsoft Teams Plugin (Python Plugin)
-  - Get user's list, chat members list, send messages, and more.
+9. **Microsoft Teams Plugin (Python Plugin)**
+   - Enhance team collaboration with features like getting user and chat member lists, sending messages, and more.
 
-- Citizen Log Plugin (Python Plugin)
-  - Manage "Logging" for operations.
+10. **Citizen Log Plugin (Python Plugin)**
+    - Effectively manage "Logging" for operations, ensuring a systematic record of critical activities.
 
-- Win UI Text Plugin (Python Plugin)
-  - Extract text on the windows interface.
+11. **Win UI Text Plugin (Python Plugin)**
+    - Seamlessly extract text from the Windows interface for further processing and analysis.
 
-- Simple Counter Plugin (Python Plugin)
-  - Manage "retry cycle" for errors and minimize operations.
+12. **Simple Counter Plugin (Python Plugin)**
+    - Minimize errors with efficient "retry cycle" management, optimizing the number of operations required.
 
-- Win UI Control Plugin (Python Plugin)
-  - Control the windows interface.
+13. **Win UI Control Plugin (Python Plugin)**
+    - Take control of the Windows interface with ease, enabling automation and improved user experience.
 
-- DocDigitizer Plugins (Python Plugin)
-  - Get Doc, Tracking, and Upload plugins for DocDigitizer.
+14. **DocDigitizer Plugins (Python Plugin)**
+    - Leverage DocDigitizer's capabilities with Get Doc, Tracking, and Upload plugins for efficient document processing.
 
-- Excel2Image Plugin (Python Plugin)
-  - Convert xlsx file to image formats.
+15. **Excel2Image Plugin (Python Plugin)**
+    - Convert xlsx files to image formats like jpg, png, gif, and bmp for enhanced data visualization.
 
-- OCI Plugin (Python Plugin)
-  - Upload and download files to/from OCI.
+16. **OCI Plugin (Python Plugin)**
+    - Seamlessly upload and download files to/from Oracle Cloud Infrastructure, streamlining cloud operations.
 
-- XLS2XLSX Plugin (Python Plugin)
-  - Convert xls file to xlsx.
+17. **XLS2XLSX Plugin (Python Plugin)**
+    - Effortlessly convert xls files to the modern xlsx format, ensuring compatibility and improved data management.
 
-- Excel Append Plugin (Python Plugin)
-  - Collect multiple excel files into one.
+18. **Excel Append Plugin (Python Plugin)**
+    - Combine multiple excel files into one, simplifying data consolidation and analysis.
 
-- FTP Server Plugin (Python Plugin)
-  - Upload and download files from FTP server.
+19. **FTP Server Plugin (Python Plugin)**
+    - Efficiently upload and download files to/from FTP server, ensuring smooth data transfer.
 
-- Folder Status Plugin (Python Plugin)
-  - Obtain properties of a folder or folders.
+20. **Folder Status Plugin (Python Plugin)**
+    - Gain valuable insights into folder properties, with an added feature to rename folders for better organization.
 
-Feel free to save this Markdown code in a file with the extension ".md" (e.g., `resume.md`) to view the resume in Markdown format.
+21. **File Downloader Plugin (Python Plugin)**
+    - Quickly download files from URLs, simplifying content acquisition for your projects.
+
+22. **Excel Read Plugin (Python Plugin)**
+    - Seamlessly read and process xlsx files, facilitating data extraction and manipulation for further analysis.
