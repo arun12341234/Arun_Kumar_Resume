@@ -1,6 +1,3 @@
-Sure! Here's the updated resume with the correct company information:
-
-```markdown
 # Arun Kumar
 **Full Stack Developer**
 
@@ -71,5 +68,3 @@ Sure! Here's the updated resume with the correct company information:
    - File Downloader Plugin (Python Plugin)
    - Excel Read Plugin (Python Plugin)
 
-Note: The resume has been shortened to focus on relevant information. If you need any further adjustments or details, please let me know.
-```
