@@ -6,7 +6,7 @@
 - Email: ak080495@gmail.com
 
 **Summary**
-Highly skilled Full Stack Developer with 4 years of experience in Angular, Python, and Django. Successfully delivered complex projects and developed plugins for an AI/ML Integration Platform. Strong problem-solving and analytical abilities. Led a team of 5 developers in implementing a $500,000 Asset Management project. Collaborated with cross-functional teams on a $1 million LMS (Learning Management System) implementation, impacting 10,000 users. Proficient in managing projects and plugins with a track record of meeting deadlines and exceeding performance targets.
+Highly skilled Full Stack Developer with 4 years of experience in Angular, Python, and Django. Successfully delivered complex projects and developed plugins for an AI/ML Integration Platform. Led the development of multiple innovative plugins, including WhatsApp Plugin, Zip/Unzip Plugin, Google Drive Plugin, and many others, enhancing the platform's functionality and user experience. Strong problem-solving and analytical abilities. Proficient in managing projects and plugins with a track record of meeting deadlines and exceeding performance targets.
 
 **Experience**
 1. Angular & Python Developer - Preva Systems Pvt Ltd, Bengaluru (Dec 2019 - Dec 2020)
