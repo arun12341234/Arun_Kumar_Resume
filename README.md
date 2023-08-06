@@ -1,74 +1,91 @@
-# Arun Kumar   
-## Full Stack Developer
+# Arun Kumar
+Full Stack Developer
 
-## SUMMARY
-Talented and motivated Full Stack Developer with over 3 years of experience in building and maintaining web applications. Proficient in front-end technologies such as Angular 6+, HTML, CSS, and Bootstrap, as well as back-end technologies like Python, Django, and Flask. Adept at working on diverse projects and collaborating with cross-functional teams to deliver high-quality solutions. Strong analytical skills and a passion for learning new technologies.
+## Summary
+Highly accomplished Full Stack Developer with a strong background in Angular, Python, Django, and Flask. Proficient in various programming languages, including JavaScript, PHP, Android, Typescript, C++, and Java. Demonstrated ability to deliver high-quality software solutions with a focus on efficiency and effectiveness. Skilled in critical thinking and analytical problem-solving, ensuring optimal project outcomes. Proven track record of successfully managing and developing projects, making me a valuable asset to any software development team.
 
-## EXPERIENCE    
-Preva Systems Pvt Ltd, Bengaluru— Angular & Python Developer   
+## Experience
+### Preva Systems Pvt Ltd, Bengaluru— Angular & Python Developer
 Dec 2019 - Dec 2020
 
-ARGOS LABS Low Code AI/ML Integration Platform, San Jose, California, United States— Bot Automation & Plugin Developer   
+### ARGOS LABS Low Code AI/ML Integration Platform, Alpharetta, GA 30009(partnership company)— Bot automation & Plugin developer
 Dec 2019 - Dec 2020
 
-SasconIT Technologies Pvt Ltd, Bengaluru— Angular & Python Developer (Freelancer)  
-Feb 2021 – Jul 2022
+### SasconIT Technologies Pvt Ltd, Bengaluru— Angular & Python Developer (freelancer)
+Feb 2021 - Jul 2022
 
-ARGOS LABS Low Code AI/ML Integration Platform, San Jose, California, United States— Plugin Developer   
+### ARGOS LABS Low Code AI/ML Integration Platform, San Jose, California, United States— Plugin developer
 Jul 2022 - Present
 
-## EDUCATION   
-Jai Mangal High School, Chaita— Matric    
-April 2011 - May 2012    
-Pandit Ugam Pandey College, Motihari— +2    
-May 2015   
-SUSCET, Tangori — B. tech CSE   July 2015- July 2019    
-#147 Chorma, East Champaran   
-Bihar,845414   +91 9934110211 ak080495@gmail.com    
-   
+## Education
+- Jai Mangal High School, Chaita— Matric
+  April 2011 - May 2012
+- Pandit Ugam Pandey College, Motihari— +2
+  May 2015
+- SUSCET, Tangori — B. Tech CSE
+  July 2015 - July 2019
 
-## SKILLS   
-Frontend    
-Angular 6+, HTML, CSS, Bootstrap 
-Backend   Python, 
-Django, Flask   
-Programming Languages    
-Python, JavaScript, PHP, Android, Typescript, C++, Java   
-Version Control System    
-GitHub    
-Databases    
-MySQL, MongoDB, PostgreSQL, Radis 
-LANGUAGES    
-   
-Hindi, English   
+## Skills
+### Frontend
+- Angular 6+
+- HTML
+- CSS
+- Bootstrap
 
-## PROJECTS  
-1)	ASSET MANAGEMENT (ANGULAR 8 & DJANGO PROJECT) 
-2)	LMS [Learning Management System] (ANGULAR 8 & DJANGO PROJECT) 
-3)	AVL PROJECT [AUTOMATIC VEHICLE LOCATION] (ANGULAR 8 & DJANGO PROJECT)  
-4)	BOT AUTOMATION & PLUGIN DEVELOPMENT   
-     - WHATSAPP PLUGIN (PYTHON PLUGIN)  
-     - ZIP/UNZIP PLUGIN (PYTHON PLUGIN)
-     - HOSPITAL BOT (PYTHON AUTOMATION)
-     - VENDING MACHINE (ANGULAR 8 & DJANGO PROJECT) 
-     - BOX II PLUGIN (PYTHON PLUGIN) 
-     - GOOGLE DRIVE PLUGIN (PYTHON PLUGIN)
-     - WORD EDITOR PLUGIN (PYTHON PLUGIN) 
-     - GIT HTML EXTRACT PLUGIN (PYTHON PLUGIN) 
-     - GRAPHQL API PLUGIN (PYTHON PLUGIN) 
-     - MICROSOFT TEAMS PLUGIN (PYTHON PLUGIN) 
-     - CITIZEN LOG PLUGIN (PYTHON PLUGIN) 
-     - WIN UI TEXT PLUGIN (PYTHON PLUGIN) 
-     - SIMPLE COUNTER PLUGIN (PYTHON PLUGIN) 
-     - WIN UI CONTROL PLUGIN (PYTHON PLUGIN) 
-     - DOCDIGITIZER GET DOC PLUGIN (PYTHON PLUGIN) 
-     - DOCDIGITIZER TRACKING PLUGIN (PYTHON PLUGIN) 
-     - DOCDIGITIZER UPLOAD PLUGIN (PYTHON PLUGIN) 
-     - EXCEL2IMAGE PLUGIN (PYTHON PLUGIN) 
-     - OCI PLUGIN (PYTHON PLUGIN) 
-     - XLS2XLSX PLUGIN (PYTHON PLUGIN) 
-     - EXCEL APPEND PLUGIN (PYTHON PLUGIN) 
-     - FTP SERVER PLUGIN (PYTHON PLUGIN) 
-     - FOLDER STATUS PLUGIN (PYTHON PLUGIN) 
-     - FILE DOWNLOADER PLUGIN (PYTHON PLUGIN) 
-     - EXCEL READ PLUGIN (PYTHON PLUGIN)   
+### Backend
+- Python
+- Django
+- Flask
+
+### Programming Languages
+- Python
+- JavaScript
+- PHP
+- Android
+- Typescript
+- C++
+- Java
+
+### Version Control System
+- GitHub
+
+### Databases
+- MySQL
+- MongoDB
+- PostgreSQL
+- Radis
+
+## Languages
+- Hindi
+- English
+
+## Projects
+1) ASSET MANAGEMENT (Angular 8 & Django Project)
+2) LMS [Learning Management System] (Angular 8 & Django Project)
+3) AVL PROJECT [Automatic Vehicle Location] (Angular 8 & Django Project)
+4) BOT AUTOMATION & PLUGIN DEVELOPMENT
+   - WhatsApp Plugin (Python Plugin)
+   - ZIP/UNZIP Plugin (Python Plugin)
+   - Hospital Bot (Python Automation)
+   - Vending Machine (Angular 8 & Django Project) (Completed as a freelancer)
+   - Box II Plugin (Python Plugin)
+   - Google Drive Plugin (Python Plugin)
+   - Word Editor Plugin (Python Plugin)
+   - Git HTML Extract Plugin (Python Plugin)
+   - GraphQL API Plugin (Python Plugin)
+   - Microsoft Teams Plugin (Python Plugin)
+   - Citizen Log Plugin (Python Plugin)
+   - Win UI Text Plugin (Python Plugin)
+   - Simple Counter Plugin (Python Plugin)
+   - Win UI Control Plugin (Python Plugin)
+   - DocDigitizer Get Doc Plugin (Python Plugin)
+   - DocDigitizer Tracking Plugin (Python Plugin)
+   - DocDigitizer Upload Plugin (Python Plugin)
+   - Excel2Image Plugin (Python Plugin)
+   - OCI Plugin (Python Plugin)
+   - XLS2XLSX Plugin (Python Plugin)
+   - Excel Append Plugin (Python Plugin)
+   - FTP Server Plugin (Python Plugin)
+   - Folder Status Plugin (Python Plugin)
+   - File Downloader Plugin (Python Plugin)
+   - Excel Read Plugin (Python Plugin)
